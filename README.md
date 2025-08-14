@@ -113,8 +113,8 @@ The script also includes basic benchmarking for some operations.
 ### **Installation**
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/talha-shafique/OpenCV-Preprocessing-Pipeline
+    cd OpenCV-Preprocessing-Pipeline
     ```
     *(Replace `your-username` and `your-repo-name` with your actual GitHub details)*
 2.  **Create a virtual environment (recommended):**
@@ -153,7 +153,6 @@ The script also includes basic benchmarking for some operations.
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
 ## **Contact**
-[Your Name]
 *   GitHub: https://github.com/talha-shafique
 *   Email:  talha.shafique126@gmail.com
 
